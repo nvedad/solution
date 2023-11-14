@@ -1,9 +1,9 @@
 ﻿using DataServices.DBModels;
-using DataServices.Model;
-using DataServices.UnitofWork;
+ using DataServices.UnitofWork;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
+using log4net;
 
 namespace BookStore.Controllers
 {

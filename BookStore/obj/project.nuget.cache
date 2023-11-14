@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iL+5uTFR5hT21GbzQRkvmE3R4Jc7FO+S5M1N1K5reRluC5kHGI9B3mktLRVBwSzyxfecNdTvKn2ysT7dn1GIpg==",
+  "dgSpecHash": "F/MqHydd69y7ck6kJLV86xYaIamCx8K+GVYCXvjGddMvab2wDeTNLw8ojpYxsL28MOg81bXLns4npwhNUFNwew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vedadatta\\OneDrive\\Desktop\\.NET\\Exercises\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\GitRepo\\solution\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vedadatta\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vedadatta\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\vedadatta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\vedadatta\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\vedadatta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\vedadatta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vedadatta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
